@@ -1,9 +1,9 @@
 === WooCommerce – Ship to a different address checked or unchecked ===
 Plugin Name: WooCommerce – Ship to a different address checked or unchecked
 Plugin URI: 
-Donate link: https://www.paypal.me/dipakparmar443/
-Author: Dipak Parmar
-Author URI: https://profiles.wordpress.org/dipakparmar443/
+Donate link: https://paypal.me/NARESHBHAIPARMAR?locale.x=en_GB
+Author: Naresh Parmar
+Author URI: https://profiles.wordpress.org/nareshparmar827/
 Tags: Ship to Different Address, Ship to Different Address checked, Ship to Different Address unchecked, woocommerce
 Requires at least: 4.5
 Tested up to: 5.4

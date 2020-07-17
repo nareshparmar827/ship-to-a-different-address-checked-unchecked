@@ -1,17 +1,6 @@
 # WooCommerce – Ship to a different address checked or unchecked #
-Plugin Name: WooCommerce – Ship to a different address checked or unchecked
-Plugin URI: 
-Donate link: https://www.paypal.me/dipakparmar443/
-Author: Dipak Parmar
-Author URI: https://profiles.wordpress.org/dipakparmar443/
-Tags: Ship to Different Address, Ship to Different Address checked, Ship to Different Address unchecked, woocommerce
-Requires at least: 4.5
-Tested up to: 5.4
-Stable tag: 1.0
-License: GPLv3 or later
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-== Description ==
+# Description #
 
 "WooCommerce – Ship to a different address checked or unchecked" To make the default “Ship to Different Address” checkbox unchecked in WooCommerce Checkout page, simply activate this plugin. To revert this, simply deactivate this plugin. No settings page is neccessary for this plugin.
 
